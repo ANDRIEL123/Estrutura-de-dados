@@ -1,0 +1,10 @@
+Passo a passo básico de git uso do git.
+
+1- Acessar o local onde deseja clonar a pasta do git;
+2- Clone a pasta com o comando "git clone 'caminho da pasta na Web'";
+3- Criar um arquivo digite o comando toutch "nome-do-arquivo";
+4- Digite gedit "nome-do-arquivo" para editar o mesmo;
+5- Para adicionar o arquivo digite git add "nome-do-arquivo";
+6- Para realizar o commit digite git commit -m "Descricao-do-Arquivo" "nome-do-arquivo";
+7- Digite por fim git push -u origin master
+E digite usuário e senha solicitados.
